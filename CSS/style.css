@@ -15,6 +15,6 @@
 }
 
 .logo{
-
-    
+    display: grid;
+    margin: -8px;
 }
