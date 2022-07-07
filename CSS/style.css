@@ -62,4 +62,5 @@
 
 .carrito:hover {
     display: grid;
+    width: 50px;
 }
