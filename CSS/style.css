@@ -21,4 +21,6 @@
 
 .inicio:hover{
     display: grid;
+    border-radius: 2em;
+    border: 1px solid #f9c
 }
