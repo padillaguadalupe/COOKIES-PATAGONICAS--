@@ -56,5 +56,6 @@
 }
 
 .carrito{
-    
+    position: absolute;
+    left: 65em;
 }
