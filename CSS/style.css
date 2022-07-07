@@ -39,5 +39,8 @@
 
 .buscador{
     display: grid;
+    position: absolute;
+    right: 350px;
+  
 
 }
