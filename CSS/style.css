@@ -61,5 +61,5 @@
 }
 
 .carrito:hover {
-    
+    display: grid;
 }
