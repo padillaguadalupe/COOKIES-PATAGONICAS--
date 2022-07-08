@@ -100,4 +100,7 @@
 
 .contactanos{
     display: grid;
+    position: absolute;
+    left: 45px;
+    bottom: 1px;
 }
