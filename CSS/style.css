@@ -108,4 +108,7 @@
 
 .whatsapp{
     display: grid;
+    position: absolute;
+    left: 20px;
+    bottom: 15px;
 }
