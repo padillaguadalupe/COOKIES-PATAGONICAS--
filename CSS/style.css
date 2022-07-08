@@ -117,4 +117,7 @@
 
 .instagram{
     display: grid;
+    position: absolute;
+    right: 50px;
+    bottom: 5px;
 }
