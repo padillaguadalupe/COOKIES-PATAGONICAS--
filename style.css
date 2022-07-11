@@ -1,0 +1,11 @@
+#parent {
+    display: grid;
+    grid-template-columns: repeat(3, 150px);
+    grid-template-rows: repeat(3, 150px);
+    gap: 1em;
+}
+
+.C {
+    background: yellow;
+    text-align: center;
+}
